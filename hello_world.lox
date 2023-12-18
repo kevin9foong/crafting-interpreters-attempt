@@ -1,0 +1,6 @@
+/* hi there, this is a comment. 
+that spans multiple lines 
+*/ 
+
+var hello = 1 + 1; 
+var world = "world";
